@@ -1,0 +1,11 @@
+{
+  "name": "stts-code",
+  "version": "1.0.0",
+  "description": "the back-end code for the stts npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "np mt"
+  },
+  "author": "Nikhil Vijayan",
+  "license": "MIT"
+}
